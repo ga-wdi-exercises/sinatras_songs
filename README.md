@@ -1,7 +1,7 @@
 # sinatra's songs
 Blueprinting objects with Ruby Classes [ruby, oop]
 
-This is a pair or group exercise. Students will compare Javsascript Constructors to Ruby Classes. Students are expected to have been introduced to the topic of **Classes** in Ruby and will now use their prior Javascript knowledge to understand Ruby. Further reading on [https://ga-chicago.gitbooks.io/wdi-ravenclaw/content/04_ruby101/d02_classes_in_ruby.html](classes may be found here). An [http://ga-chicago.github.io/ruby-class/](interactive diagram is available), too.
+This is a pair or group exercise. Students will compare Javsascript Constructors to Ruby Classes. Students are expected to have been introduced to the topic of **Classes** in Ruby and will now use their prior Javascript knowledge to understand Ruby. Further reading on [classes may be found here](https://ga-chicago.gitbooks.io/wdi-ravenclaw/content/04_ruby101/d02_classes_in_ruby.html). An [interactive diagram is available](http://ga-chicago.github.io/ruby-class/), too.
 
 ## Exercise: Javascript to Ruby
 
